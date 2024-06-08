@@ -6,4 +6,6 @@ Heavily inspired by
 
 ## TODOs
 
+- Dotfiles for `zsh`, `fish` ()
 - Dotfiles for Windows.
+- Dotfiles for `fish` (optional)
