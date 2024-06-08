@@ -97,5 +97,9 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# [bonniss] More packages
+brew install nvm
+brew install ansible
+
 # Remove outdated versions from the cellar.
 brew cleanup
